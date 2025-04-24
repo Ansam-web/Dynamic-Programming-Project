@@ -1,0 +1,2 @@
+The number of coins: 10
+The values of the coins: 22, 3, 45, 66, 121, 78, 90, 12, 32, 8
