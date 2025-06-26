@@ -14,5 +14,7 @@ Expected result=27
 
 ## 💻 Screenshots
 
+### 🗒️ Instructions Page
 ![Instructions Page](./image.png)
+### 🏠 Home Page
 ![Home Page](./HomePage.png)
