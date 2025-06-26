@@ -15,4 +15,4 @@ Expected result=27
 ## 💻 Screenshots
 
 ![Instructions Page](./image.png)
-![Home Page](./image.png)
+![Home Page](./Home Page.png)
