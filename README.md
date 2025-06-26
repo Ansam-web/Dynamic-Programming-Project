@@ -11,3 +11,7 @@ possible amount of money a player can definitely win, if he moves first.
 Coins [] = 4, 15, 7, 3, 8, 9 
 
 Expected result=27 
+
+## 💻 Screenshots
+
+![Instructions Page](./image.png)
