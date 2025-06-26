@@ -19,3 +19,5 @@ Expected result=27
 
 ### 🏠 Home Page
 ![Home Page](./HomePage.png)
+
+### 💰 Enter Coin Values Page
